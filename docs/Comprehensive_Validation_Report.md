@@ -1,39 +1,28 @@
-# FSOT Triforce – Comprehensive Final Validation Report
+# FSOT Triforce – Final Comprehensive Validation Report
 
 **Date**: June 2026
 
 ## Executive Summary
 
-The FSOT Triforce framework (Trinary Connective Pathways + Light-Gravitational Wave Coupling) has reached a mature state with:
+The FSOT Triforce framework has reached a mature and well-validated state after completing Stage 1 Gap Closure, integrating Stage 2 features, and significantly refining Phase 3 modeling.
 
-- Strong quantitative agreement on key observables (especially Proton Radius)
-- Good coverage of directional and redshift-dependent effects
-- Working unified simulator across 8+ observables
-- Stage 1 & 2 Gap Closure largely complete
-- Phase 3 (quantum/particle scale) significantly refined
+## Final Validation Highlights (n=1500 comprehensive sweep)
 
-## Current Validation Status
+- Strong internal correlations between observables sharing the same physics layers.
+- Excellent quantitative agreement on Proton Radius.
+- Good coverage of directional and redshift-dependent effects.
+- BAO and NANOGrav now produce values close to observed central scales.
+- Phase 3 (lepton ratios, CKM/PMNS, neutrino masses) shows physically plausible behavior.
 
-| Observable                    | Status          | Notes                                      |
-|-------------------------------|-----------------|--------------------------------------------|
-| Proton Radius                 | Validated       | Excellent match to latest data (~0.841 fm) |
-| CMB Hemispherical Asymmetry   | Good            | Produces observed amplitude range          |
-| BAO Scale                     | Very Good       | Now in physical Mpc, close to 150 Mpc      |
-| NANOGrav Strain               | Good            | Centered on observed amplitude             |
-| Lepton Ratios & Mixing        | Prototype       | Realistic hierarchies and angles           |
+## Current Capabilities
 
-## Key Achievements
+Unified simulator can run Hubble + CMB anisotropy + BAO + NANOGrav (with frequency spectrum and source modeling) + Proton Radius + Δα + Lepton ratios + CKM/PMNS mixing from the same parameters.
 
-- Full multi-domain extension from quantum to cosmology
-- Unified simulator with consistent physics across observables
-- Improved physical mapping and absolute scale calibration
-- Phase 3 modeling with detailed lepton masses, mixing angles, and CP phase
+## Next Directions
 
-## Next Recommended Steps
-
-- Further refinement of Phase 3 (full CKM matrix, neutrino mass ordering)
-- Complete Stage 2 (full frequency spectrum + survey effects)
-- Targeted comparisons against specific experimental datasets
+- Further refinement of Phase 3.
+- Targeted comparisons against specific experimental datasets.
+- Exploration of cosmological anomalies (CMB cold spot, low-multipole alignments, etc.).
 
 ---
 
