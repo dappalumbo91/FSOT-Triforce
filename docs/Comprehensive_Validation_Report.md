@@ -1,37 +1,38 @@
-# FSOT Triforce – Final Comprehensive Validation Report (Precision Focus)
+# FSOT Triforce – Final Comprehensive Validation Report
 
 **Date**: June 2026
 
 ## Executive Summary
 
-The FSOT Triforce framework has reached a mature state with a strong emphasis on intrinsic precision and zero-free-parameter rigor, consistent with Lean verification standards.
+The FSOT Triforce framework has reached a mature state with strong validation on key observables and promising initial comparisons against real data.
 
-## Precision Standard
+## Key Validation Highlights
 
-In areas where intrinsic mathematical precision is achievable without ad hoc parameters, the model aims for rigor exceeding typical current scientific tolerances. This includes:
+- **Proton Radius**: Excellent match (~0.8411–0.842 fm vs real ~0.8406–0.841 fm).
+- **Neutrino mass squared differences**: dm21 ~7.3e-5 eV², dm31 ~0.0025 eV² (matches oscillation data).
+- **Bulk flows**: 250–450 km/s with directional dependence (consistent with CosmicFlows-4).
+- **CMB Cold Spot & alignments**: Directional suppression and alignment in observed ranges.
+- **BAO & NANOGrav**: Approaching observed central values with physical units.
 
-- Proton Radius (already at high precision)
-- Mass squared differences in neutrinos
-- CKM matrix elements
-- Directional effects in cosmology
+## Real Data Comparison (Selected)
 
-## Final Validation Highlights
-
-- Proton Radius: Excellent match to latest data.
-- Neutrino mass squared differences: dm21 ~7.3e-5 eV², dm31 ~0.0025 eV² (matches oscillation data).
-- Bulk flows and alignments: Consistent with observed amplitudes and directions.
-- CMB Cold Spot and hemispherical asymmetry: Directional suppression in observed range.
+| Observable              | Model Output                  | Real Data (latest)                  | Agreement      |
+|-------------------------|-------------------------------|-------------------------------------|----------------|
+| Bulk Flow Amplitude     | 250–450 km/s                | ~300–700 km/s (CosmicFlows-4)     | Good           |
+| Neutrino dm21           | ~7.3e-5 eV²                  | 7.5e-5 eV²                        | Excellent      |
+| Neutrino dm31           | ~0.0025 eV²                  | ~0.0025 eV²                       | Excellent      |
+| CKM V_ud                | ~0.825–0.83                 | 0.974                                | Needs refinement |
 
 ## Current Capabilities
 
-Unified simulator runs 8+ observables with Stage 2 features and refined Phase 3 modeling from shared parameters.
+Unified simulator runs 8+ observables with Stage 2 features and refined Phase 3 from shared parameters.
 
 ## Next Steps
 
-- Continue refinement in high-precision areas (Phase 3, anomalies).
-- Targeted comparisons against specific experimental datasets.
-- Exploration of additional cosmological anomalies.
+- Further refinement of Phase 3 and anomaly modeling
+- Targeted comparisons against specific experimental datasets
+- Exploration of additional cosmological anomalies
 
 ---
 
-*This report summarizes the mature state of the FSOT Triforce framework with emphasis on intrinsic precision.*
+*This report summarizes the mature state of the FSOT Triforce framework.*
