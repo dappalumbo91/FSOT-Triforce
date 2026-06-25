@@ -1,25 +1,32 @@
 # NANOGrav Stochastic Gravitational Wave Background Extension
 
-**FSOT Triforce Formal Extension (Phase 2 Start)**
+**FSOT Triforce Formal Extension (Phase 2)**
 
 ## Core Concept
 
-The stochastic gravitational wave background detected by NANOGrav can carry directional dependence arising from the same Trinary Connective Pathways and fluid spacetime mechanisms.
+The stochastic gravitational wave background can exhibit directional dependence due to Trinary Connective Pathways and fluid spacetime effects.
 
-Regions with different coherent pathway density and net fluid flow (Suction/Poof) will source or propagate gravitational waves differently, leading to anisotropy in the observed background.
+## Prototype Code
+
+```python
+def nanograv_modulator(density, frequency=1e-8):
+    coherence = 0.7 + (density * 0.4)
+    trinary = coherence * (1 + (density-1)*0.25)
+    coupling = 1.0 / (1.0 + (density-1)**2 * 0.8)
+    
+    # Frequency dependence (example power-law like behavior)
+    freq_factor = (frequency / 1e-8) ** -0.3
+    
+    gw_strain = trinary * coupling * freq_factor
+    return gw_strain
+```
 
 ## Key Predicted Signatures
 
-- Directional variation in GW strain amplitude
-- Correlation with large-scale structure dipoles
-- Possible frequency-dependent anisotropy
-
-## Connection to Framework
-
-- Trinary pathways influence the coherence of spacetime vibrations that source GWs.
-- Light-Gravitational Wave Coupling extends naturally to gravitational wave propagation.
-- Directional fluid flow creates anisotropic conditions for GW generation and propagation.
+- Directional variation in GW strain
+- Frequency-dependent anisotropy
+- Alignment with large-scale structure
 
 ## Status
 
-Phase 2 work initiated. Formal predictions defined. Prototype modulation to follow.
+Prototype code included. Ready for further development.
