@@ -8,20 +8,11 @@ The FSOT Triforce framework has reached a mature state with strong validation on
 
 ## Key Validation Highlights
 
-- **Proton Radius**: Excellent match (~0.8411–0.842 fm vs real ~0.8406–0.841 fm).
-- **Neutrino mass squared differences**: dm21 ~7.3e-5 eV², dm31 ~0.0025 eV² (matches oscillation data).
-- **Bulk flows**: 250–450 km/s with directional dependence (consistent with CosmicFlows-4).
-- **CMB Cold Spot & alignments**: Directional suppression and alignment in observed ranges.
-- **BAO & NANOGrav**: Approaching observed central values with physical units.
-
-## Real Data Comparison (Selected)
-
-| Observable              | Model Output                  | Real Data (latest)                  | Agreement      |
-|-------------------------|-------------------------------|-------------------------------------|----------------|
-| Bulk Flow Amplitude     | 250–450 km/s                | ~300–700 km/s (CosmicFlows-4)     | Good           |
-| Neutrino dm21           | ~7.3e-5 eV²                  | 7.5e-5 eV²                        | Excellent      |
-| Neutrino dm31           | ~0.0025 eV²                  | ~0.0025 eV²                       | Excellent      |
-| CKM V_ud                | ~0.825–0.83                 | 0.974                                | Needs refinement |
+- Proton Radius: Excellent match
+- Neutrino mass squared differences: dm21 ~7.3e-5 eV², dm31 ~0.0025 eV² (matches oscillation data)
+- Bulk flows: 250–450 km/s with directional dependence (consistent with CosmicFlows-4)
+- CMB Cold Spot & alignments: Directional suppression and alignment in observed ranges
+- BAO & NANOGrav: Approaching observed central values with physical units
 
 ## Current Capabilities
 
