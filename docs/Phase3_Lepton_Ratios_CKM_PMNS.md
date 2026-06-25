@@ -4,18 +4,19 @@
 
 ## Further Refinements
 
-- Full approximate CKM matrix elements (V_ud, V_us, V_ub, V_cd, V_cs, V_cb) with coherence and density dependence.
-- Neutrino mass ordering (normal hierarchy) with m1, m2, m3 and sum of neutrino masses.
-- CP-violating phase (δ) modulation.
+- Full approximate CKM matrix elements.
+- Both normal and inverted neutrino mass hierarchies.
+- CP-violating phase modulation.
+- Large-scale statistical validation (n=2000).
 
-## Large-Scale Statistical Validation (n=2000)
+## CMB Cold Spot Connection
 
-Clear, physically plausible distributions and correlations in lepton mass ratios, mixing angles, and neutrino masses driven by trinary coherence and density.
+Initial tests show the model can produce directional temperature suppression (Cold Spot-like) correlated with structure density and trinary coherence.
 
 ## Status
 
-Phase 3 modeling has been significantly deepened with realistic mass hierarchies, full CKM elements, and neutrino mass predictions. Ready for further integration or comparison with experimental data.
+Phase 3 significantly matured. Ready for deeper integration or comparison with experimental data.
 
 ---
 
-*This completes the core multi-domain extension of FSOT Triforce.*
+*This completes a very strong Phase 3 foundation.*
