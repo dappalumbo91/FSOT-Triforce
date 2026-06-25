@@ -4,25 +4,38 @@
 
 ## Executive Summary
 
-The FSOT Triforce framework has reached a mature and well-validated state after completing Stage 1 Gap Closure, integrating Stage 2 features, and significantly refining Phase 3 modeling.
+The FSOT Triforce framework has reached a mature state with:
 
-## Final Validation Highlights (n=1500 comprehensive sweep)
-
-- Strong internal correlations between observables sharing the same physics layers.
-- Excellent quantitative agreement on Proton Radius.
-- Good coverage of directional and redshift-dependent effects.
-- BAO and NANOGrav now produce values close to observed central scales.
-- Phase 3 (lepton ratios, CKM/PMNS, neutrino masses) shows physically plausible behavior.
+- Strong validation on key observables (especially Proton Radius)
+- Working unified simulator across 8+ observables
+- Stage 1 & 2 Gap Closure largely complete
+- Phase 3 significantly refined (full CKM, neutrino masses, CP phase)
+- Initial cosmological anomaly tests (Cold Spot, alignments) showing promising directional effects
 
 ## Current Capabilities
 
-Unified simulator can run Hubble + CMB anisotropy + BAO + NANOGrav (with frequency spectrum and source modeling) + Proton Radius + Δα + Lepton ratios + CKM/PMNS mixing from the same parameters.
+The unified simulator can now consistently model:
+- Hubble Effective + directional variation
+- CMB Anisotropy (including Cold Spot-like suppression)
+- BAO (in physical Mpc, with RSD)
+- NANOGrav (with frequency spectrum + source modeling)
+- Proton Radius
+- Fine Structure Constant variation
+- Lepton mass ratios and hierarchies
+- Full CKM matrix elements + neutrino mass ordering
 
-## Next Directions
+## Validation Status
 
-- Further refinement of Phase 3.
-- Targeted comparisons against specific experimental datasets.
-- Exploration of cosmological anomalies (CMB cold spot, low-multipole alignments, etc.).
+- Proton Radius: Excellent match
+- CMB Hemispherical Asymmetry & Cold Spot: Good directional behavior
+- BAO & NANOGrav: Approaching observed central values
+- Phase 3: Physically plausible hierarchies and mixing
+
+## Next Steps
+
+- Further refinement of Phase 3 and anomaly modeling
+- Targeted comparisons against specific datasets
+- Exploration of additional cosmological anomalies
 
 ---
 
