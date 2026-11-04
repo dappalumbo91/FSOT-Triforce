@@ -1,0 +1,11 @@
+FSOT-Triforce
+Copyright 2026 Damian Arthur Palumbo
+
+This product is a triadic self-refining FSOT engine with directional fluid valve
+flow and light-gravitational wave coupling (zero-free-parameter extensions
+and testable predictions).
+
+This repository is part of the FSOT (Fluid Spacetime Omni-Theory) family.
+Theory authority is vendor/fsot_compute.py in
+https://github.com/dappalumbo91/FSOT-2.1-Lean (pin AEB2AD), also by
+Damian Arthur Palumbo and licensed under the Apache License 2.0.
