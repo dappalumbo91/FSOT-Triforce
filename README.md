@@ -1,5 +1,9 @@
 # FSOT Triforce
 
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
+Theory authority: [FSOT-2.1-Lean](https://github.com/dappalumbo91/FSOT-2.1-Lean) pin **AEB2AD** (`vendor/fsot_compute.py`).
+
 **Triadic Self-Refining FSOT Engine with Directional Fluid Valve Flow and Light-Gravitational Wave Coupling**
 
 Zero-free-parameter computational framework extending FSOT 2.0/2.1 with intrinsic self-reflection, homeostatic memory, and physically grounded predictions for anisotropic expansion and coupled light-gravity wave propagation.
